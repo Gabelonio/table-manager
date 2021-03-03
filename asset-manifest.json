@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/table-manager/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/table-manager/static/js/main.9b4ba15e.chunk.js",
-    "main.js.map": "/table-manager/static/js/main.9b4ba15e.chunk.js.map",
+    "main.css": "/table-manager/static/css/main.5ff960a8.chunk.css",
+    "main.js": "/table-manager/static/js/main.0af047a3.chunk.js",
+    "main.js.map": "/table-manager/static/js/main.0af047a3.chunk.js.map",
     "runtime-main.js": "/table-manager/static/js/runtime-main.ceadd30f.js",
     "runtime-main.js.map": "/table-manager/static/js/runtime-main.ceadd30f.js.map",
-    "static/js/2.96268317.chunk.js": "/table-manager/static/js/2.96268317.chunk.js",
-    "static/js/2.96268317.chunk.js.map": "/table-manager/static/js/2.96268317.chunk.js.map",
+    "static/js/2.143defee.chunk.js": "/table-manager/static/js/2.143defee.chunk.js",
+    "static/js/2.143defee.chunk.js.map": "/table-manager/static/js/2.143defee.chunk.js.map",
     "static/js/3.e2b97b90.chunk.js": "/table-manager/static/js/3.e2b97b90.chunk.js",
     "static/js/3.e2b97b90.chunk.js.map": "/table-manager/static/js/3.e2b97b90.chunk.js.map",
     "index.html": "/table-manager/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/table-manager/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.96268317.chunk.js.LICENSE.txt": "/table-manager/static/js/2.96268317.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/table-manager/static/media/logo.6ce24c58.svg"
+    "static/css/main.5ff960a8.chunk.css.map": "/table-manager/static/css/main.5ff960a8.chunk.css.map",
+    "static/js/2.143defee.chunk.js.LICENSE.txt": "/table-manager/static/js/2.143defee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ceadd30f.js",
-    "static/js/2.96268317.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.9b4ba15e.chunk.js"
+    "static/js/2.143defee.chunk.js",
+    "static/css/main.5ff960a8.chunk.css",
+    "static/js/main.0af047a3.chunk.js"
   ]
 }
