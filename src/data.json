@@ -1,0 +1,75 @@
+[
+	{
+		"region_name": "Afghanistan ",
+		"region_alpha_code": "AFG",
+        "value": 6.4811395410182,
+        "ref_date" :  "2010" 
+	},
+	{
+		"region_name": "United States ",
+		"region_alpha_code": "USA",
+        "value": 9.3100803343311,
+        "ref_date" :  "2021"
+	},
+	{
+		"region_name": "Germany ",
+		"region_alpha_code": "DEU",
+        "value": 5.1367567502095,
+        "ref_date" :  "2018"
+	},
+	{
+		"region_name": "China ",
+		"region_alpha_code": "CHN",
+        "value": 7.2193114634008,
+        "ref_date" :  "2013"
+	},
+	{
+		"region_name": "Afghanistan ",
+		"region_alpha_code": "AFG",
+        "value": 11.5543499939345,
+        "ref_date" :  "2018"
+	},
+	{
+		"region_name": "Uruguay ",
+		"region_alpha_code": "URY",
+        "value": 1.2304786942517,
+        "ref_date" :  "2011"
+	},
+	{
+		"region_name": "Colombia ",
+		"region_alpha_code": "COL",
+        "value": 0.6949677649980,
+        "ref_date" :  "2020"
+	},
+	{
+		"region_name": "Ethiopia ",
+		"region_alpha_code": "ETH",
+        "value": 1.2304786942517,
+        "ref_date" :  "2017"
+	},
+	{
+		"region_name": "Finland ",
+		"region_alpha_code": "FIN",
+        "value": 31.1487653296180,
+        "ref_date" :  "2007"
+	},
+	{
+		"region_name": "Liberia ",
+		"region_alpha_code": "LBR",
+        "value": 2.7755403285399,
+        "ref_date" :  "2000"
+	},
+	{
+		"region_name": "Mexico ",
+		"region_alpha_code": "MEX",
+        "value": 3.3960988432231,
+        "ref_date" :  "2005"
+	},
+	{
+		"region_name": "Nigeria ",
+		"region_alpha_code": "NGA",
+        "value": 8.7868974849626,
+        "ref_date" :  "2014"
+	}
+]
+  
